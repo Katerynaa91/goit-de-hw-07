@@ -7,12 +7,12 @@
 
 1. Створює таблицю.
 
-Використайте IF NOT EXISTS з полями
-
-- id (автоінкремент, головний ключ), 
-- medal_type, 
-- count, 
-- created_at.
+  Використайте IF NOT EXISTS з полями
+  
+  - id (автоінкремент, головний ключ), 
+  - medal_type, 
+  - count, 
+  - created_at.
 
 2. Випадково обирає одне із трьох значень ['Bronze', 'Silver', 'Gold'].
 
